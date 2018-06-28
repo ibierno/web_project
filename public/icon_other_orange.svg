@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8053 9118 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff5722;
+        font-size: 24px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ff5722;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_431" data-name="Group 431" transform="translate(8001 8838)">
+    <text id="_" data-name="?" class="cls-1" transform="translate(62 305)"><tspan x="0" y="0">?</tspan></text>
+    <g id="Ellipse_24" data-name="Ellipse 24" class="cls-2" transform="translate(52 280)">
+      <circle class="cls-3" cx="16" cy="16" r="16"/>
+      <circle class="cls-4" cx="16" cy="16" r="15"/>
+    </g>
+  </g>
+</svg>
